@@ -1,5 +1,5 @@
 import React from 'react'
-import './App.css'
+import '../App.css'
 import { motion } from "framer-motion";
 
 function About() {
@@ -72,7 +72,7 @@ function About() {
                         <div className='d-lg-flex justify-content-between'>
 
                             <div className='intro-img'>
-                                <img className='rounded float-left img-fluid' src='https://github.com/sanajitjana/My-Portfolio-v1/blob/master/public/assets/img/about-image.jpg?raw=true' alt='' />
+                                <img className='rounded float-left img-fluid' src='https://raw.githubusercontent.com/sanajitjana/My-Portfolio-v1/master/public/assets/img/about-image.jpg' alt='' />
                             </div>
 
                             <div className='intro-para'>
